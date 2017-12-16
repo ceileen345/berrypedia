@@ -1,0 +1,7 @@
+What I want this app to do:
+
+use this API https://pokeapi.co/
+
+Make a berry guide based on what the berries do. User should be able to search for what they want the berry to do and the corresponding berry will pop up. Should also be able to examine information. 
+
+Uses this color scheme: https://coolors.co/f49292-c2ecd6-7dc8e8-fceabd-fbdae9
