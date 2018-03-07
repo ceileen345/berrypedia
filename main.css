@@ -58,3 +58,16 @@ h3 {
     margin: 20px;
 }
 
+.berryinfo {
+    margin: 0 auto;
+    text-align: center;
+    width: 150px;
+    background-color: #FCF4BD;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+#berryname {
+    font-size: 20px;
+}
+
